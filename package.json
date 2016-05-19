@@ -1,0 +1,11 @@
+{
+  "name": "evt-streamer",
+  "version": "1.0.0",
+  "author": "Josh Wilsdon <josh@wilsdon.ca>",
+  "private": true,
+  "dependencies": {
+    "assert-plus": "1.0.0",
+    "lstream": "0.0.4"
+  },
+  "license": "MIT"
+}
